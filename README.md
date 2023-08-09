@@ -1,4 +1,7 @@
 # Image_resizer
+
+This repository introduces a reliable solution for safely resizing your important document images before uploading them to specific websites. With the provided main.exe executable file, you can confidently resize images of various formats offline, eliminating concerns about privacy and security associated with online image resizing platforms.
+
 This repository contains a Python script that implements an interactive image resizing application. Built using the customtkinter graphical user interface library and the PIL (Python Imaging Library), this application empowers users to select an image file, specify a desired target size, and dynamically resize the chosen image while preserving its original aspect ratio.
 
 Key Features:
